@@ -26,3 +26,6 @@ yarn-error.log*
 
 
 build-storybook.log
+
+#RubyMine IDE settings
+.idea/
