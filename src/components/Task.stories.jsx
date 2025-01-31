@@ -42,6 +42,6 @@ export const Archived = {
     task: {
       ...Default.args.task,
       state: 'TASK_ARCHIVED',
-    }
-  }
-}
+    },
+  },
+};
