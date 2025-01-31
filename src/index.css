@@ -182,7 +182,7 @@ textarea {
 
 .input-symbol.error [class^="icon-"],
 .input-symbol.error [class*=" icon-"] {
-  color: #ff4400;
+  color: #8c2e09;
 }
 
 .input-symbol [class^="icon-"],
